@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string-array name="my_array" type="array">
+            <item>Safaricom</item>
+            <item>Mpesa</item>
+
+        </string-array>
+    <string-array name="mpesa">
+    <item> Send Money </item>
+    <item>Withdraw Cash </item>
+    <item>Buy Airtime</item>
+    <item>Loans and Savings</item>
+    <item>Lipa na M-PESA</item>
+    <item>My Account</item>
+    </string-array>
+    <string-array name="enteragentno">
+        <item>Enter Agent No</item>
+    </string-array>
+    <string-array name="enterphoneno">
+        <item>Enter Phone Number</item>
+    </string-array>
+    <string-array name="enteramount">
+        <item>Enter Amount</item>
+    </string-array>
+    <string-array name="enterpin">
+        <item>
+            Enter Pin
+        </item>
+    </string-array>
+    <string-array name="withdrawcsash">
+        <item>From Agent</item>
+        <item>From ATM</item>
+    </string-array>
+    <string-array name="buyairtime">
+        <item>My Phone</item>
+        <item>Other Phone</item>
+    </string-array>
+    <string-array name="loansnsavings">
+        <item>M-Shwari</item>
+        <item>Kcb M-PESA</item>
+    </string-array>
+    <string-array name="mshwari">
+        <item>
+            Send to M-Shwari
+        </item>
+        <item>Withdraw from M-Shwari</item>
+        <item>Lock Savings Account</item>
+        <item>Loan @ 9% for 30 Days</item>
+        <item>Check Balance</item>
+        <item>Mini Statement</item>
+    </string-array>
+    <string-array name="kcbmpesa">
+        <item>Deposit from M-PESA</item>
+        <item>Withdraw to M-PESA</item>
+        <item>Loan @ 8.64% for 30 days</item>
+        <item>Fixed Savings Accounts</item>
+        <item>my Account</item>
+    </string-array>
+    <string-array name="lipanampesa">
+        <item>Pochi La Biashara</item>
+        <item>Pay Bill</item>
+        <item>Buy Goods and Services</item>
+    </string-array>
+    <string-array name="myaccount">
+        <item>Mini Statement</item>
+        <item>Check Balance</item>
+        <item>Change M-PESA PIN</item>
+        <item>Change Language</item>
+        <item>Update Customer Menu</item>
+    </string-array>
+</resources>
